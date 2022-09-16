@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "murali",
+      "email": "murali@gmail.com",
+      "phone": 7998991713
+    },
+    {
+      "id": 2,
+      "uname": "Ravi",
+      "email": "ravi38@gmail.com",
+      "phone": 8985567170
+    },
+    {
+      "id": 3,
+      "uname": "Venkat",
+      "email": "Venkat8@gmail.com",
+      "phone": 8179264560
+    },
+    {
+      "id": 4,
+      "uname": "Ramanji",
+      "email": "Ramanji5@gmail.com",
+      "phone": 9876543210
+    },
+    {
+      "id": 5,
+      "uname": "venkat",
+      "email": "venkat38@gmail.com",
+      "phone": 8985567170
+    },
+    {
+      "id": 6,
+      "uname": "pardhu",
+      "email": "pardhu38@gmail.com",
+      "phone": 8985567170
+    },
+    {
+      "id": 7,
+      "uname": "Nikhil",
+      "email": "Nikhil38@gmail.com",
+      "phone": 8985567170
+    },
+    {
+      "name": "murali kundeti",
+      "email": "muralikundeti95@gmail.com",
+      "phone": "8999000",
+      "id": 8
+    }
+  ],
+  "Bookingproduct": [
+    {
+      "sno": 1,
+      "bookdate": "30-08-2022",
+      "product": "Dove shampoo"
+    },
+    {
+      "sno": 2,
+      "bookdate": "28-08-2022",
+      "product": "Googlr pixel 6A"
+    },
+    {
+      "sno": 3,
+      "bookdate": "02-09-2022",
+      "product": "fogg spray"
+    },
+    {
+      "sno": 4,
+      "bookdate": "25-08-2022",
+      "product": "trimmer"
+    }
+  ],
+  "websites": [
+    {
+      "sno": 1,
+      "esite": "amazon",
+      "productid": 451254552542
+    },
+    {
+      "sno": 2,
+      "esite": "flipcart",
+      "productid": 985462765879
+    },
+    {
+      "sno": 3,
+      "esite": "snapdeal",
+      "productid": 545861328795
+    },
+    {
+      "sno": 4,
+      "esite": "myntra",
+      "productid": 447158296329
+    }
+  ]
+}
